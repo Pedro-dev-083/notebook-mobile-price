@@ -7,7 +7,8 @@ Esse projeto foi feito no Google Colab, utilizando o dataset de Mobile Price Cla
 
 Esse é um projeto feito por **Pedro Souza de Azevedo** como *MVP* para a disciplina de **Engenharia de Sistemas de Software Inteligentes**, do curso de pós-graduação da ***PUC-Rio***.  
 
-O *Front-end* desse projeto está aqui: https://github.com/Pedro-dev-083/front-favorite-movies
+O *Front-end* desse projeto está aqui: https://github.com/Pedro-dev-083/front-mobile-store
+O *Back-end* desse projeto está aqui: https://github.com/Pedro-dev-083/api-mobile-store
 
 ## Como configurar o projeto
 
